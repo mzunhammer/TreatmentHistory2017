@@ -1,7 +1,5 @@
-This is currently a placeholder. Upon publication here you will find...
-
 Data and analysis for
-"The effects of treatment failure generalize across different routes of drug administration”
+["The effects of treatment failure generalize across different routes of drug administration”](http://stm.sciencemag.org/content/9/393/eaal2999)
 by Authors: Matthias Zunhammer1*, Markus Ploner2, Charlotte Engelbrecht1, Johanna Bock1, Simon S Kessner3, Ulrike Bingel1
 
 Affiliations:
